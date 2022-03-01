@@ -2,7 +2,7 @@
 
 Yeah, that's a dumb name.
 
-Ok so this is some lame comics I make in MS Paint and sometimes [JS Paint.](https:/paint.js.org/)
+Ok so this is some lame comics I make in MS Paint and sometimes [JS Paint.](https://paint.js.org/)
 
 
 
