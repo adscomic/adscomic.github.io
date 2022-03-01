@@ -6,4 +6,4 @@ Ok so this is some lame comics I make in MS Paint and sometimes [JS Paint.](http
 
 
 
-![Im cool](/comic1.png)
+![Im cool](https://raw.githubusercontent.com/adscomic/adscomic.github.io/main/comic1.png)
